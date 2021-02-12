@@ -33,41 +33,16 @@ Google Colab does limit usage for free users and is not available for pro upgrad
 
 ## Initial examples
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Anime Faces</b></td>
-    <td><b style="font-size:30px">Human Faces</b></td>
- </tr>
- <tr>
-    <td> ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10004131_result.jpg?raw=true)
+### Anime Faces
+![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10004131_result.jpg?raw=true)
 
-          ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10006043_result.jpg?raw=true)
+![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10006043_result.jpg?raw=true)
 
-        ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10009741_result.jpg?raw=true)</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+### Human Faces
 
+![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human/0000.png?raw=true)
 
-      ### Anime Faces
-        ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10004131_result.jpg?raw=true)
-
-        ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10006043_result.jpg?raw=true)
-
-        ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10009741_result.jpg?raw=true)
-
-    </div>
-    <div style="display: inline-block;">
-    ### Human Faces
-
-    ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human/0000.png?raw=true)
-
-    ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human/0001.png?raw=true)
-
-    ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human/0002.png?raw=true)
-
-    </div>
-</div>
+![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human/0001.png?raw=true)
 
 
 ## Results
