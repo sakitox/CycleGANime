@@ -33,7 +33,9 @@ Google Colab does limit usage for free users and is not available for pro upgrad
 
 ## Initial examples
 
-### Anime Faces
+<div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        ### Anime Faces
 
 ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10004131_result.jpg?raw=true)
 
@@ -41,6 +43,8 @@ Google Colab does limit usage for free users and is not available for pro upgrad
 
 ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10009741_result.jpg?raw=true)
 
+    </div>
+    <div style="display: inline-block;">
 ### Human Faces
 
 ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human/0000.png?raw=true)
@@ -48,6 +52,10 @@ Google Colab does limit usage for free users and is not available for pro upgrad
 ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human/0001.png?raw=true)
 
 ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human/0002.png?raw=true)
+
+    </div>
+</div>
+
 
 ## Results
 
