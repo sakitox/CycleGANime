@@ -9,6 +9,22 @@ I created a CycleGAN model based on 92,000 human faces and 21,000 anime faces. T
 
 Check Requirements.txt
 
+Datasets obtained from Kaggle:
+  
+  Anime faces dataset: https://www.kaggle.com/scribbless/another-anime-face-dataset
+  
+  Human faces dataset: https://www.kaggle.com/ashwingupta3012/human-faces
+  
+## Data Preparation
+
+The human faces come in a variety of sizes between 500-600 px, while the anime faces claim all to be 256x256. However, I found errors when fed into the CycleGAN do to inconsistent sizes in this dataset.
+
+I proceeded to resize all images (with padding) and resave them later to be transformed into TFRecords datasets that are optimized for fast data injection in distributed TPU's.
+
+The data preparation notebook can be found in this repository as 'datasetbuilding v2'
+
+the TFRecords datasets for both anime and humans were uploaded to a google bucket for assimilation via google colab. These records are not present in this repository due to their large size.
+
 ## Distributed TPU training
 
 GAN-like networks are particularly challenging given that they often use multiple optimizers. In addition, GANs also consume a large amont of GPU memory and are usually batch-size sensitive. I could not run it locally on my desktop and resorted to use google colab's TPU offer.
@@ -17,7 +33,17 @@ Google Colab does limit usage for free users and is not available for pro upgrad
 
 ## Initial examples
 
-TBD
+### Anime Faces
+![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10004131_result.jpg?raw=true)
+
+![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10006043_result.jpg?raw=true)
+
+### Human Faces
+
+![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human/0000.png?raw=true)
+
+![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human/0001.png?raw=true)
+
 
 ## Results
 
