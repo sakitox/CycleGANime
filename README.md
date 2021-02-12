@@ -40,9 +40,9 @@ Google Colab does limit usage for free users and is not available for pro upgrad
 
 ### Human Faces
 
-![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human/0000.png?raw=true)
+![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human_resized/2018.jpg?raw=true)
 
-![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human/0001.png?raw=true)
+![alt text](https://github.com/sakitox/CycleGANime/blob/main/Human_resized/20179.jpg?raw=true)
 
 
 ## Results
