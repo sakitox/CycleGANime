@@ -33,8 +33,22 @@ Google Colab does limit usage for free users and is not available for pro upgrad
 
 ## Initial examples
 
-<div>
-    <div style="display: inline-block;">
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Anime Faces</b></td>
+    <td><b style="font-size:30px">Human Faces</b></td>
+ </tr>
+ <tr>
+    <td> ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10004131_result.jpg?raw=true)
+
+          ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10006043_result.jpg?raw=true)
+
+        ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10009741_result.jpg?raw=true)</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+
       ### Anime Faces
         ![alt text](https://github.com/sakitox/CycleGANime/blob/main/Anime/10004131_result.jpg?raw=true)
 
